@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'cd2022', 'text': 'cmsimde_site \n 1 \n', 'tags': '', 'url': 'cd2022.html'}, {'title': 'W3', 'text': '', 'tags': '', 'url': 'W3.html'}, {'title': 'W7', 'text': '\n', 'tags': '', 'url': 'W7.html'}]};
+var tipuesearch = {"pages": [{'title': 'cd2022', 'text': 'cmsimde_site \n 1 \n', 'tags': '', 'url': 'cd2022.html'}, {'title': 'W3', 'text': '', 'tags': '', 'url': 'W3.html'}, {'title': 'W7', 'text': '\n \n', 'tags': '', 'url': 'W7.html'}, {'title': 'w8', 'text': '\n', 'tags': '', 'url': 'w8.html'}]};
