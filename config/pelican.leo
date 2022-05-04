@@ -90,7 +90,7 @@ g.es("admin pelican Github 執行完畢")
 <t tx="leo.20180115093726.1"></t>
 <t tx="leo.20180115115910.1"></t>
 <t tx="leo.20180423103639.1"></t>
-<t tx="leo.20220413083443.1">@language.md
+<t tx="leo.20220413083443.1">@language md
 ---
 Title:W7
 Date:2022-04-07 11:00
