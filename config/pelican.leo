@@ -57,8 +57,8 @@
 <v t="leo.20180115115910.1"><vh>2020</vh>
 <v t="leo.20180423103639.1"><vh>2020 Fall CP 課程</vh>
 <v t="leo.20180423103656.1"><vh>@edit 20200813.md</vh></v>
-<v t="leo.20220413083443.1"><vh>edit w7.md</vh></v>
-<v t="leo.20220427082834.1"><vh>edit w8.md</vh></v>
+<v t="leo.20220413083443.1"><vh>@edit w7.md</vh></v>
+<v t="leo.20220427082834.1"><vh>@edit w8.md</vh></v>
 </v>
 </v>
 </v>
@@ -90,30 +90,6 @@ g.es("admin pelican Github 執行完畢")
 <t tx="leo.20180115093726.1"></t>
 <t tx="leo.20180115115910.1"></t>
 <t tx="leo.20180423103639.1"></t>
-<t tx="leo.20220413083443.1">@language md
----
-Title:W7
-Date:2022-04-07 11:00
-Category:Misc
-Tags:2022SpringCD
-Slug:w7_summary.html
-Author:40923154
----
-
-W7分配軟體繪圖軟體
- 
-40923154:NX12</t>
-<t tx="leo.20220427082834.1">@language md
----
-Title:W8
-Date:2022-04-20 11:00
-Category:Misc
-Tags:2022SpringCD
-Slug:w7_summary.html
-Author:40923154
----
-
-2020 Fall計算機程式教導如何使用python和Flutter在機械設計流程的應用。</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
