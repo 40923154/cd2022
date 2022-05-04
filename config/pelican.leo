@@ -103,7 +103,17 @@ Author:40923154
 W7分配軟體繪圖軟體
  
 40923154:NX12</t>
-<t tx="leo.20220427082834.1"></t>
+<t tx="leo.20220427082834.1">@language md
+---
+Title:W8
+Date:2022-04-20 11:00
+Category:Misc
+Tags:2022SpringCD
+Slug:w7_summary.html
+Author:40923154
+---
+
+2020 Fall計算機程式教導如何使用python和Flutter在機械設計流程的應用。</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
